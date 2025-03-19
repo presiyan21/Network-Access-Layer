@@ -2,6 +2,8 @@
 
 ## 📌 Introduction
 
+Principal Network Access Layer protocols, covering error detection methods & Medium Access Control (MAC) protocols like ALOHA and CSMA/CD, are implemented in Python in this repository.
+
 ## 📝 Exercises Overview
 - Parity Bit for Error Detection: Implements generated error injection to demonstrate even parity verification. 
 - Given a data matrix, a two-dimensional parity maximises the recognition of errors across rows and columns. 
