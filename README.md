@@ -22,8 +22,12 @@ Principal Network Access Layer protocols, covering error detection methods & Med
 
 - A code editor (VS Code, PyCharm) or terminal.
 
+## 📄 Exercises Code
+
+### 🔢 Parity bit check
 ![Parity Check](https://github.com/user-attachments/assets/68deb7d5-3df8-40a9-b3b3-8483a6508892)
 
+### 📶 Multiple Access Protocols (MAP)
 ![MAP](https://github.com/user-attachments/assets/6ca05c16-d3a8-4e8a-8d22-7abbc4c5f7b0)
 
 
