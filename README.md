@@ -24,7 +24,7 @@ Principal Network Access Layer protocols, covering error detection methods & Med
 
 ## 📄 Exercises Code
 
-### 🔢 Parity bit check
+### 🔢 Parity Bit Check
 ![Parity Check](https://github.com/user-attachments/assets/68deb7d5-3df8-40a9-b3b3-8483a6508892)
 
 ### 📶 Multiple Access Protocols (MAP)
